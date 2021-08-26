@@ -1,26 +1,34 @@
 [submodule "qemu"]
 	path = qemu
+	ignore = dirty
 	url = https://github.com/duskmoon314/qemu.git
 	branch = riscv-N-stable-5.0
 [submodule "Labeled-uCore-SMP"]
 	path = Labeled-uCore-SMP
+	ignore = dirty
 	url = https://github.com/Gallium70/uCore-SMP
 [submodule "lrv-rust-bl"]
 	path = lrv-rust-bl
+	ignore = dirty
 	url = https://github.com/Gallium70/lrv-rust-bl
 [submodule "rv-csr-test"]
 	path = rv-csr-test
+	ignore = dirty
 	url = https://github.com/duskmoon314/rv-csr-test.git
 [submodule "rCore-N"]
 	path = rCore-N
+	ignore = dirty
 	url = https://github.com/KveinAxel/rCore-N.git
 [submodule "labeled-RISC-V-N"]
 	path = labeled-RISC-V-N
+	ignore = dirty
 	url = https://github.com/Gallium70/labeled-RISC-V-N.git
 [submodule "rustsbi-qemu"]
 	path = rustsbi-qemu
+	ignore = dirty
 	url = https://github.com/duskmoon314/rustsbi-qemu.git
 	branch = legacy-multicore
 [submodule "async-syscall"]
 	path = async-syscall
-	url = https://github.com/KveinAxel/async-syscall.git
+	ignore = dirty
+	url = git@github.com:KveinAxel/async-syscall.git

@@ -4,3 +4,4 @@ qemu-build/*
 .vscode
 *proxy.sh
 .idea
+proxy_status.sh
