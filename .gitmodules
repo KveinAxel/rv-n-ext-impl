@@ -28,7 +28,3 @@
 	ignore = dirty
 	url = https://github.com/duskmoon314/rustsbi-qemu.git
 	branch = legacy-multicore
-[submodule "async-syscall"]
-	path = async-syscall
-	ignore = dirty
-	url = git@github.com:KveinAxel/async-syscall.git
